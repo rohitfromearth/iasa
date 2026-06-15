@@ -260,4 +260,4 @@ Thank you for reviewing my submission.
 
 Screen recording demonstrating offline submission, sync, local vs online status, and stale answer handling:
 
-[IASA Track B Walkthrough](https://drive.google.com/file/d/1oUVIPomt7qCEpXzwcMGSPO8zvJwEznjC/view?usp=sharing&t=14.099)
+[IASA Track B Walkthrough](https://drive.google.com/file/d/1oUVIPomt7qCEpXzwcMGSPO8zvJwEznjC/view?usp=sharing)
